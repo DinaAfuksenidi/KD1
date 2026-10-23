@@ -1,5 +1,5 @@
 * {
-    background-color: greenyellow;
+    background-color: rgb(209, 237, 166);
     box-sizing: border-box;
 
 }
@@ -15,4 +15,13 @@ nav {
     justify-content: space-between;
     align-items: center;
     gap: 17px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+h2 {
+    color: rgb(255, 0, 191);
 }
