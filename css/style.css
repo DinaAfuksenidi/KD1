@@ -31,3 +31,9 @@ h3 {
     color: blueviolet;
     font-size: larger;
 }
+
+@media (max-width:600px) {
+    .layout {
+        display: flex
+    }
+}
