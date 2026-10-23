@@ -25,3 +25,9 @@ img {
 h2 {
     color: rgb(255, 0, 191);
 }
+
+h3 {
+    font-style: italic;
+    color: blueviolet;
+    font-size: larger;
+}
